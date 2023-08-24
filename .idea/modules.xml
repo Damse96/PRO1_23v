@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Biler/Biler.iml" filepath="$PROJECT_DIR$/Biler/Biler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L00_Introduction/L00_Introduction.iml" filepath="$PROJECT_DIR$/L00_Introduction/L00_Introduction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02_Scanner/L02_Scanner.iml" filepath="$PROJECT_DIR$/L02_Scanner/L02_Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L03_If_Statements/L03_If_Statements.iml" filepath="$PROJECT_DIR$/L03_If_Statements/L03_If_Statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L04_While/L04_While.iml" filepath="$PROJECT_DIR$/L04_While/L04_While.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L05_while_workshopopgaver/L05_while_workshopopgaver.iml" filepath="$PROJECT_DIR$/L05_while_workshopopgaver/L05_while_workshopopgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L06_forLoops/L06_forLoops.iml" filepath="$PROJECT_DIR$/L06_forLoops/L06_forLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07_Array/L07_Array.iml" filepath="$PROJECT_DIR$/L07_Array/L07_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L07_Arrays/L07_Arrays.iml" filepath="$PROJECT_DIR$/L07_Arrays/L07_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L08_Arrays2/L08_Arrays2.iml" filepath="$PROJECT_DIR$/L08_Arrays2/L08_Arrays2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L09_Projekt/L09_Projekt.iml" filepath="$PROJECT_DIR$/L09_Projekt/L09_Projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L10_Anvendelse_Af_Objekter/L10_Anvendelse_Af_Objekter.iml" filepath="$PROJECT_DIR$/L10_Anvendelse_Af_Objekter/L10_Anvendelse_Af_Objekter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L11_Klasser_Objekter/L11_Klasser_Objekter.iml" filepath="$PROJECT_DIR$/L11_Klasser_Objekter/L11_Klasser_Objekter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L12_Klass_imutable/L12_Klass_imutable.iml" filepath="$PROJECT_DIR$/L12_Klass_imutable/L12_Klass_imutable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L12_SU_Generalisering/L12_SU_Generalisering.iml" filepath="$PROJECT_DIR$/L12_SU_Generalisering/L12_SU_Generalisering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L14_opsamling_begreber/L14_opsamling_begreber.iml" filepath="$PROJECT_DIR$/L14_opsamling_begreber/L14_opsamling_begreber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L15_projekt/L15_projekt.iml" filepath="$PROJECT_DIR$/L15_projekt/L15_projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L16_PRO_Arraylist/L16_PRO_Arraylist.iml" filepath="$PROJECT_DIR$/L16_PRO_Arraylist/L16_PRO_Arraylist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L16_SU_Tilstande/L16_SU_Tilstande.iml" filepath="$PROJECT_DIR$/L16_SU_Tilstande/L16_SU_Tilstande.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L17_JavaFX/L17_JavaFX.iml" filepath="$PROJECT_DIR$/L17_JavaFX/L17_JavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L18_JavaFX/L18_JavaFX.iml" filepath="$PROJECT_DIR$/L18_JavaFX/L18_JavaFX.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L19_Yatzy/L19_Yatzy.iml" filepath="$PROJECT_DIR$/L19_Yatzy/L19_Yatzy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L20_Klassesammenhaenge/L20_Klassesammenhaenge.iml" filepath="$PROJECT_DIR$/L20_Klassesammenhaenge/L20_Klassesammenhaenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L21_dobbeltSammenhaenge/L21_dobbeltSammenhaenge.iml" filepath="$PROJECT_DIR$/L21_dobbeltSammenhaenge/L21_dobbeltSammenhaenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L22_arkitektur/L22_arkitektur.iml" filepath="$PROJECT_DIR$/L22_arkitektur/L22_arkitektur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L23_projekt_arkitektur/L23_projekt_arkitektur.iml" filepath="$PROJECT_DIR$/L23_projekt_arkitektur/L23_projekt_arkitektur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L24_Soogning/L24_Soogning.iml" filepath="$PROJECT_DIR$/L24_Soogning/L24_Soogning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L25_Sortering/L25_Sortering.iml" filepath="$PROJECT_DIR$/L25_Sortering/L25_Sortering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L26_Kas_Projekt/L26_Kas_Projekt.iml" filepath="$PROJECT_DIR$/L26_Kas_Projekt/L26_Kas_Projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L27_tekstFiler_og_exceptions/L27_tekstFiler_og_exceptions.iml" filepath="$PROJECT_DIR$/L27_tekstFiler_og_exceptions/L27_tekstFiler_og_exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L28_SemesterProoveForSjov/L28_SemesterProoveForSjov.iml" filepath="$PROJECT_DIR$/L28_SemesterProoveForSjov/L28_SemesterProoveForSjov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L29_Fletning/L29_Fletning.iml" filepath="$PROJECT_DIR$/L29_Fletning/L29_Fletning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L30_oovelse_januar_2023/L30_oovelse_januar_2023.iml" filepath="$PROJECT_DIR$/L30_oovelse_januar_2023/L30_oovelse_januar_2023.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L31_oovelse_juni_2022/L31_oovelse_juni_2022.iml" filepath="$PROJECT_DIR$/L31_oovelse_juni_2022/L31_oovelse_juni_2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L33_Semesterproove_2020/L33_Semesterproove_2020.iml" filepath="$PROJECT_DIR$/L33_Semesterproove_2020/L33_Semesterproove_2020.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L33_semesterproove_Patrick/L33_semesterproove_Patrick.iml" filepath="$PROJECT_DIR$/L33_semesterproove_Patrick/L33_semesterproove_Patrick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L34_Mikkels_GUI/L34_Mikkels_GUI.iml" filepath="$PROJECT_DIR$/L34_Mikkels_GUI/L34_Mikkels_GUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L35_23v_semester/L35_23v_semester.iml" filepath="$PROJECT_DIR$/L35_23v_semester/L35_23v_semester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PRO1_23v.iml" filepath="$PROJECT_DIR$/PRO1_23v.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SU_Kajs_Biler/SU_Kajs_Biler.iml" filepath="$PROJECT_DIR$/SU_Kajs_Biler/SU_Kajs_Biler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studiestart/studiestart.iml" filepath="$PROJECT_DIR$/studiestart/studiestart.iml" />
+    </modules>
+  </component>
+</project>
